@@ -1,8 +1,8 @@
-# _{About me website}_
+# _About me website_
 
-##### _{This is an about me page using HTML and CSS}_
+##### _This is an about me page using HTML and CSS_
 
-#### By _**{Garrett Carver}**_
+#### By _**Garrett Carver**_
 
 ## Description
 
@@ -16,7 +16,7 @@ This is a website I created to show a little bit about myself.  I may update thi
 
 ### Legal
 
-Copyright (c) 2015 **_{Garrett Carver}_**
+Copyright (c) 2015 **_Garrett Carver_**
 
 This software is licensed under the MIT license.
 
