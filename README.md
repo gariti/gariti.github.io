@@ -12,7 +12,7 @@ hosted on github pages.
 
 ## Setup
 
-1. Open Index.html in your web browser (Or log into GitHub Pages link: TBD)
+1. Open Index.html in your web browser (Or log into GitHub Pages link: http://gariti.github.io/)
 2. Browse to other pages!
 
 ### Legal
