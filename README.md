@@ -5,9 +5,12 @@
 #### By _**Garrett Carver**_
 
 ## Description
+test
 
 ***WORK IN PROGRESS***
-This is a website I created to show a little bit about myself.  I may update this to include my other work in the future.  I will also have this project hosted on github pages.
+This is a website I created to show a little bit about myself.  I may update
+this to include my other work in the future.  I will also have this project
+hosted on github pages.
 
 ## Setup
 
