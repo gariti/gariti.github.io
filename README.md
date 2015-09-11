@@ -5,8 +5,6 @@
 #### By _**Garrett Carver**_
 
 ## Description
-test
-
 ***WORK IN PROGRESS***
 This is a website I created to show a little bit about myself.  I may update
 this to include my other work in the future.  I will also have this project
@@ -14,7 +12,7 @@ hosted on github pages.
 
 ## Setup
 
-1. Open Index.html in your web browser
+1. Open Index.html in your web browser (Or log into GitHub Pages link: TBD)
 2. Browse to other pages!
 
 ### Legal
